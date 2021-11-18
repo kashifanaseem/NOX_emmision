@@ -11,5 +11,7 @@ Project was done on a data of a gas turbine, given features were:
 * Compressor discharge pressure (CDP) mbar 
 * Turbine energy yield (TEY) MWH 
 * Carbon monoxide (CO) mg/m3 
+
+
 and the target was to find  Nitrogen oxides (NOx) mg/m3.
 it was regression problem, used multiple methods in order to achieve beter accuracy, with Feature engineering and feature selection.
