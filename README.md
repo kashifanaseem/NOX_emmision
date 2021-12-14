@@ -30,4 +30,4 @@ Used four models to predict NOX emmision to compare better model, it was regress
 
 **Feature Selection**: To choose best features correlation matrix was used and similar feature with more than 90% correlation was removed.
 
-**Conclusion**: In all model ANN performed with highest accuracy on 20% test dataset followed by random forest.
+**Conclusion**: In all model ANN performed with highest score on 20% test dataset followed by random forest.
